@@ -1,2 +1,4 @@
 # SignupLogin
-// Ini adalah script SignupLogin sederhana saya   // Script ini masih perlu diperbaiki
+// Ini adalah script SignupLogin sederhana saya   
+
+// Script ini masih perlu diperbaiki
